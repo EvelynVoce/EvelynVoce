@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a second year computer science student at Nottingham Trent University (NTU) with a passion for programming.
+
 <!--
 **JamieVoce/JamieVoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
