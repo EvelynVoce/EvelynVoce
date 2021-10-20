@@ -3,7 +3,7 @@
 I'm a second year computer science student at Nottingham Trent University (NTU) with a passion for programming.
 
 <!--
-**JamieVoce/JamieVoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EvelynVoce/EvelynVoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieVoce&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVoce&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvelynVoce&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynVoce&theme=radical)
