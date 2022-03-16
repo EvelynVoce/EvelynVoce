@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a second year computer science student at Nottingham Trent University (NTU) with a passion for programming. My primary areas of interest are Artificial Intelligence, Machine Learning, and Performance Optimisation. I've developed a variety of software from multi-threaded server-clients, to chat bots and film recommendation systems. 
+I'm a final year computer science student at Nottingham Trent University (NTU) with a passion for programming. My primary areas of interest are Artificial Intelligence, Machine Learning, and Performance Optimisation. I've developed a variety of software from multi-threaded server-clients, to chat bots and film recommendation systems. 
 
 - 🔭 I’m currently working on an AI chat bot using natural language processing
 - 🌱 I’m currently learning RESTful services
