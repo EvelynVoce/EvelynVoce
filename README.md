@@ -6,7 +6,7 @@ I'm a final year computer science student at Nottingham Trent University (NTU) w
 - 🌱 I’m currently learning RESTful services
 - 👯 I’m looking to collaborate on impactful projects
 - 💬 Ask me about my repositories and past projects
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/jamie-voce/
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/evelyn-voce/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge book worm
 
