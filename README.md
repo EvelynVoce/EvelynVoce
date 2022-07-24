@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a final year computer science student at Nottingham Trent University (NTU) and an instructor for [Code First Girls](https://codefirstgirls.com/) with a passion for programming.
+I’m Evelyn, a first class computer science graduate from Nottingham Trent University (NTU) and was formerly a course instructor for [Code First Girls](https://codefirstgirls.com/).
+My current area of interest is full-stack development using React along with cloud computing to host a series of REST APIs. In fact, I am currently contributing to an open-source [React Project]( https://github.com/NTUDevSoc/eventathon) with NTUs developer society to further my skills with these technologies. My other major areas of interest however revolve around [Artificial Intelligence]( https://github.com/EvelynVoce/AI-Chatbot) and [Machine Learning](https://www.kaggle.com/code/jamievoce/predicting-developers-income),
 
- My primary areas of interest are Artificial Intelligence, [Machine Learning](https://www.kaggle.com/code/jamievoce/predicting-developers-income), and [Performance Optimisation](https://github.com/EvelynVoce/Algorithmic-complexity-analysis-with-optimised-solutions). I've developed a variety of software from [multi-threaded server-clients](https://github.com/EvelynVoce/Concurrent-Client-Server-Model), to chat bots and film recommendation systems.  
 
-- 🔭 I’m currently working on an AI chat bot using natural language processing and image recognition
-- 🌱 I’m currently learning how to make API's in python
-- ✨ Some of my favourite recent projects have been creating a [RESTful API](https://github.com/EvelynVoce/RestFull-messaging-service-API-) in Java along with my work on [Algorithm optimisation](https://github.com/EvelynVoce/Algorithmic-complexity-analysis-with-optimised-solutions) in C++
+- 🔭 I’m currently working on furthering my skills as a full-stack developer
+- 🌱 I’m currently learning how to make APIs in python
+- ✨ Some of my favourite recent projects have been creating a [RESTful Instant Messaging Service](https://github.com/EvelynVoce/RestFull-messaging-service-API-) in Java along with my work on [Algorithm Optimisation](https://github.com/EvelynVoce/Algorithmic-complexity-analysis-with-optimised-solutions) in C++
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evelyn-voce/), [My website](https://EvelynVoce.github.io)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge book worm
