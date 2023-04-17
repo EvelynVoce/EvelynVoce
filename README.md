@@ -6,8 +6,8 @@ My current area of interest is full-stack development using React along with clo
 
 
 - 🔭 I’m currently working on furthering my skills as a full-stack developer
-- 🌱 I’m currently learning how to make APIs in python
-- ✨ Some of my favourite recent projects have been creating a [RESTful Instant Messaging Service](https://github.com/EvelynVoce/RestFull-messaging-service-API-) in Java along with my work on [Algorithm Optimisation](https://github.com/EvelynVoce/Algorithmic-complexity-analysis-with-optimised-solutions) in C++
+- 🌱 I’m currently learning how AI can be used to help those with disabilities
+- ✨ Some of my favourite projects have been creating a [RESTful Instant Messaging Service](https://github.com/EvelynVoce/RestFull-messaging-service-API-) in Java along with my work on [Algorithm Optimisation](https://github.com/EvelynVoce/Algorithmic-complexity-analysis-with-optimised-solutions) in C++
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evelyn-voce/), [My website](https://EvelynVoce.github.io)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge book worm
