@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I’m Evelyn, a software developer at [Next](https://www.next.co.uk/) and former course instructor for [Code First Girls](https://codefirstgirls.com/).
+I’m Evelyn, a software developer at [Next](https://www.next.co.uk/) and a former course instructor for [Code First Girls](https://codefirstgirls.com/).
 
 My current area of interest is full-stack development using React along with cloud computing to host a series of REST APIs. In fact, I am currently contributing to an open-source [React Project]( https://github.com/NTUDevSoc/eventathon) with NTUs developer society to further my skills with these technologies. My other major areas of interest however revolve around [Artificial Intelligence]( https://github.com/EvelynVoce/AI-Chatbot) and [Machine Learning](https://www.kaggle.com/code/jamievoce/predicting-developers-income),
 
 
-- 🔭 I’m currently working on furthering my skills as a full-stack developer
+- 🔭 I’m currently working on furthering my skills as a full-stack developer by using React, C# and SQL to make an online marketplace
 - 🌱 I’m currently learning how AI can be used to help those with disabilities
 - ✨ Some of my favourite projects have been creating a [RESTful Instant Messaging Service](https://github.com/EvelynVoce/RestFull-messaging-service-API-) in Java along with my work on [Algorithm Optimisation](https://github.com/EvelynVoce/Algorithmic-complexity-analysis-with-optimised-solutions) in C++
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evelyn-voce/), [My website](https://EvelynVoce.github.io)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a huge book worm
+- ⚡ Fun fact: I'm a huge bookworm
 
 <!--
 **EvelynVoce/EvelynVoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
