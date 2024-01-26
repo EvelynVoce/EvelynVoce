@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Evelyn, a software developer at [Next](https://www.next.co.uk/) and a former course instructor for [Code First Girls](https://codefirstgirls.com/).
+I’m Evelyn, a software developer at Rolls Royce, formerly a developer at [Next](https://www.next.co.uk/) and a former course instructor for [Code First Girls](https://codefirstgirls.com/).
 
 My current area of interest is full-stack development using React along with cloud computing to host a series of REST APIs. In fact, I am currently contributing to an open-source [React Project]( https://github.com/NTUDevSoc/eventathon) with NTUs developer society to further my skills with these technologies. My other major areas of interest however revolve around [Artificial Intelligence]( https://github.com/EvelynVoce/AI-Chatbot) and [Machine Learning](https://www.kaggle.com/code/jamievoce/predicting-developers-income),
 
